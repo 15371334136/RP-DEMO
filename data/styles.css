@@ -11,13 +11,16 @@
 }
 .box_2 {
 }
+.image {
+  color:#000000;
+}
 .ellipse {
 }
 ._形状 {
   font-size:11px;
   color:#FFFFFF;
 }
-.image {
+.image1 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -71,6 +74,9 @@
 }
 .line {
 }
+.checkbox {
+  text-align:left;
+}
 .table_cell {
 }
 ._连接线 {
@@ -81,5 +87,10 @@
 }
 .box_3 {
 }
+.placeholder {
+}
 .icon {
+}
+._图片 {
+  color:#000000;
 }
